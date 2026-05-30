@@ -12,6 +12,8 @@ Building RAG systems, LLM agents, and production AI pipelines.
 - Day 01 ✅ — Variables, data types, control flow, loops
 - Day 02 ✅ — Functions, scope, *args, **kwargs, lambda, calculator CLI
 - Day 03 ✅ — Lists, tuples, list comprehensions, student grade tracker
+- Day 04 ✅ — Dictionaries, sets, dict comprehensions, word frequency counter
+- Day 05 ✅ — File I/O, error handling, custom exceptions, contact book
 ## Tech (building toward)
 Python · FastAPI · LangChain · Docker · Git
 
