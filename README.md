@@ -14,6 +14,7 @@ Building RAG systems, LLM agents, and production AI pipelines.
 - Day 03 ✅ — Lists, tuples, list comprehensions, student grade tracker
 - Day 04 ✅ — Dictionaries, sets, dict comprehensions, word frequency counter
 - Day 05 ✅ — File I/O, error handling, custom exceptions, contact book
+- Day 06 ✅ — OOP, classes, inheritance, encapsulation, full banking system
 ## Tech (building toward)
 Python · FastAPI · LangChain · Docker · Git
 
