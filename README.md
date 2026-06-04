@@ -18,7 +18,8 @@ Building RAG systems, LLM agents, and production AI pipelines.
 - Day 07 ✅ — Modules, pip, venv, and Milestone Project (To-Do CLI) completed.
 - Day 08 ✅ - How the Internet & HTTP Works
 - Day 09 ✅ - Environment Variables & Terminal Comfort - dotenv, os.environ, venv, weather API
-- Day 10 ✅ - Day 10 - Complete project  weather APP, different cities clean output
+- Day 10 ✅ - Complete project  weather APP, different cities clean output
+- Day 11 ✅ - FastAPI Intro - GET/POST routes, path params, query params, Pydantic models, HTTPException
 ## Tech (building toward)
 Python · FastAPI · LangChain · Docker · Git
 
