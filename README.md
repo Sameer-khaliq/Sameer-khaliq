@@ -7,8 +7,7 @@ Building RAG systems, LLM agents, and production AI pipelines.
 - 📚 80-day intensive AI engineering roadmap
 - 🔨 Learning: Python → FastAPI → LangChain → RAG → LangGraph
 - 📍 Based in Pakistan → targeting remote work
-
-## Progress
+Pre-Requisite before the roadmao
 - Day 01 ✅ — Variables, data types, control flow, loops
 - Day 02 ✅ — Functions, scope, *args, **kwargs, lambda, calculator CLI
 - Day 03 ✅ — Lists, tuples, list comprehensions, student grade tracker
@@ -22,6 +21,10 @@ Building RAG systems, LLM agents, and production AI pipelines.
 - Day 11 ✅ - FastAPI Intro - GET/POST routes, path params, query params, Pydantic models, HTTPException
 - Day 12 ✅ - Day 12 - Pydantic Models & Data Validation
 - Day 13 ✅ - Git Fundamentals & GitHub - init, add, commit, push, gitignore, README
+  Completed✅
+
+80 Days Roadmap to Ai Specialist
+-Starting today
 ## Tech (building toward)
 Python · FastAPI · LangChain · Docker · Git
 
