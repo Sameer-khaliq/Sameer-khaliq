@@ -24,8 +24,11 @@ Pre-Requisite before the roadmap
 - Day 13 ✅ - Git Fundamentals & GitHub - init, add, commit, push, gitignore, README
   Completed✅
 
-80 Days Roadmap to Ai Specialist
--Starting today
+**80 Days Roadmap to Ai Specialist**
+
+- Day 01 ✅ - Python 3.11+ · uv · FastAPI · Docker · VS Code
+
+
 ## Tech (building toward)
 Python · FastAPI · LangChain · Docker · Git
 
