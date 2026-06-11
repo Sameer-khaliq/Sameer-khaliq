@@ -31,6 +31,10 @@ Pre-Requisite before the roadmap
 - Day 03 ✅ - LCEL 3-step pipeline - rewrite/classify/respond with Pydantic schemas
 - Day 04 ✅ - LlamaIndex QueryEngine + RouterQueryEngine + SubQuestionQueryEngine with Gemini
 - Day 05 ✅ - Structured Output Engine — Invoice/Contract/Resume extraction with Gemini JSON mode + Pydantic v2 
+- Day 06 ✅ - Built an autonomous tool-calling agent that detects intent and executes Google SerpAPI/  
+               Weather integration using the new GenAI SDK. 
+- Day 07 ✅ - Deployed the FastAPI streaming backend to Vercel with production security guards for input-token
+  
 
 ## Tech (building toward)
 Python · FastAPI · LangChain · Docker · Git
