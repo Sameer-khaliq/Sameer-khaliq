@@ -41,3 +41,4 @@ Python · FastAPI · LangChain · Docker · Git
 
 ## Connect
 - Email: sameerkhaliq58@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sameerkhaliq-ai-engineer
