@@ -22,7 +22,8 @@ Pre-Requisite before the roadmap
 - Day 11 ✅ - FastAPI Intro - GET/POST routes, path params, query params, Pydantic models, HTTPException
 - Day 12 ✅ - Day 12 - Pydantic Models & Data Validation
 - Day 13 ✅ - Git Fundamentals & GitHub - init, add, commit, push, gitignore, README
-  Completed✅
+
+ Completed✅
 
 **80 Days Roadmap to Ai Specialist**
 
@@ -34,6 +35,8 @@ Pre-Requisite before the roadmap
 - Day 06 ✅ - Built an autonomous tool-calling agent that detects intent and executes Google SerpAPI/  
                Weather integration using the new GenAI SDK. 
 - Day 07 ✅ - Deployed the FastAPI streaming backend to Vercel with production security guards for input-token
+- Day 08 ✅ - Foundation for document Q&A systems — customer support bots, knowledge bases, policy search tools
+- Day 09 ✅ - Implemented hybrid search with BM25 + dense retrieval and RRF fusion
   
 
 ## Tech (building toward)
