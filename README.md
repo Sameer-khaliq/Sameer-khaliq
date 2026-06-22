@@ -38,11 +38,11 @@ Pre-Requisite before the roadmap
 - Day 08 ✅ - Foundation for document Q&A systems — customer support bots, knowledge bases, policy search tools
 - Day 09 ✅ - Implemented hybrid search with BM25 + dense retrieval and RRF fusion
 - Day 10 ✅ - Implemented HyDE retriever and benchmark vs naive RAG
-- Day 11 ✅ - Built an automated RAGAS evaluation framework that scores RAG pipelines on faithfulness, -                              answer relevancy, and context recall
+- Day 11 ✅ - Built an automated RAGAS evaluation framework that scores RAG pipelines on faithfulness,                                answer relevancy, and context recall
 - Day 12 ✅ - Implemented a contextual compression retriever with metadata filtering (85.7% reduction)
-- Day 13 ✅ - Built a ReAct agentic RAG system combining retrieval, calculation, and live web search      -                           tools, achieving 100% (15/15) correct tool selection 
-- Day 14 ✅ - Deployed production-grade Agentic RAG Assistant on Hugging Face Spaces with robust         -                            dependency matching and LFS vector sync.
-
+- Day 13 ✅ - Built a ReAct agentic RAG system combining retrieval, calculation, and live web search                                  tools, achieving 100% (15/15) correct tool selection 
+- Day 14 ✅ - Deployed production-grade Agentic RAG Assistant on Hugging Face Spaces with robust                                      dependency matching and LFS vector sync.
+- Day 15 ✅ - Implemented and benchmarked three agent architectures (ReAct, Reflexion, Plan-and-Execute)                              on identical tasks; documented real failure modes — stale data selection, evaluator                                    miscalibration, and silent wrong answers from rigid planning.
 ## Tech (building toward)
 Python · FastAPI · LangChain · Docker · Git
 
