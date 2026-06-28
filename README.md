@@ -48,6 +48,7 @@ Pre-Requisite before the roadmap
 - Day 18 ✅ - Built LangGraph StateGraph with SqliteSaver persistent memory; key insight: LLM has no     -                            memory, history is context fed each turn.
 - Day 19 ✅ - Implemented agent guardrails: Guardrails AI, NeMo Guardrails (Colang DSL), infinite loop -                              detection, tool error handling — adversarially tested.
 - Day 20 ✅ - Built autonomous code-execution agent with LangChain ReAct + local exec() sandbox; -                                    write→execute→debug→fix loop working.
+- Day 21 ✅ - ResearchPilot AI: LangGraph research agent → Tavily web search → reads 5 URLs → structured report in -                  60s, Gradio UI.
 ## Tech (building toward)
 Python · FastAPI · LangChain · Docker · Git
 
