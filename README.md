@@ -49,6 +49,8 @@ Pre-Requisite before the roadmap
 - Day 19 ✅ - Implemented agent guardrails: Guardrails AI, NeMo Guardrails (Colang DSL), infinite loop -                              detection, tool error handling — adversarially tested.
 - Day 20 ✅ - Built autonomous code-execution agent with LangChain ReAct + local exec() sandbox; -                                    write→execute→debug→fix loop working.
 - Day 21 ✅ - ResearchPilot AI: LangGraph research agent → Tavily web search → reads 5 URLs → structured report in -                  60s, Gradio UI.
+- Day 22 ✅ - Added LangSmith observability to ResearchPilot AI — full tracing, per-node latency, token/-                             cost tracking, metadata tags, programmatic stats script.
+- Day 23 ✅ - DSPy prompt optimization experiment — job-posting extraction task, hand-written baseline -                              100% vs DSPy 91.67%, valid finding that DSPy's edge is on harder/larger-dataset tasks.
 ## Tech (building toward)
 Python · FastAPI · LangChain · Docker · Git
 
